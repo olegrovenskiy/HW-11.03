@@ -105,6 +105,8 @@ Grafana
         Имеет встроенный функционал оповещений (алёртинга) на пороговые
         события временных рядов.
 
+Из официального сайта:
 
+Together, Prometheus and Grafana allow users to store large amounts of metrics that they can easily slice and break down to understand how their system is behaving: Strong community, Easy to use, Open source.
 
  
